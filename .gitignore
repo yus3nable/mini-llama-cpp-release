@@ -6,5 +6,6 @@ __pycache__/
 *.pyc
 *.dSYM/
 *.gguf
+!models/tiny/test.gguf
 
 .claude/settings.local.json
